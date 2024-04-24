@@ -5,7 +5,7 @@ This repository contains the code and documentation for a Data Analysis Project 
 ## Table of Contents
 
 - [Phase 1: Ask](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-1-ask)
-- [Phase 2: Prepare]()
+- [Phase 2: Prepare](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-2-prepare)
 
 ## Project Overview
 
@@ -19,10 +19,12 @@ In order to guide the future marketing campaign, the director of marketing assig
 
 This phase will elaborate on the business task and consider key stakeholders.
 
-1. Business Task 
+1. Business Task
+ 
 In order to maximize the number of annual membership, me as a data analyst, will find trend and patterns among casual riders and membership riders, and identify potential riders who can get benefit from annual membership. I do not need to raise awareness of annual membership among casual riders as they are already aware of the program. 
 
 2. Stakeholders
+
 - The director of marketing
 - The marketing analysis team
 - Cyclistic's Executive team
