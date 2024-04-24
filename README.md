@@ -3,7 +3,7 @@
 This repository contains the code and documentation for a Data Analysis Project conducted on Cyclistic's bike-share data. The project is organized into several phases, based on the APPASA process (Ask - Prepare - Process - Analyze - Share - Act), including data cleaning,  data visualizations and recommendations. 
 
 ## Table of Contents
-
+- [Phase 1: Ask](
 
 ## Project Overview
 
