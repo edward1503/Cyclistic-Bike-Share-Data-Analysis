@@ -30,6 +30,7 @@ In order to maximize the number of annual membership, me as a data analyst, will
 - Cyclistic's Executive team
 
 3. Stakeholder's expectation
+
 Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. The marketing team is interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 ## Phase 2: Prepare
