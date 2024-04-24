@@ -35,4 +35,11 @@ Design marketing strategies aimed at converting casual riders into annual member
 
 ## Phase 2: Prepare
 
+The dataset I am using here is from Cyclistic's history trip data of each month in 2020 and made available by Motivate International Inc. Due to privacy issues, personal informations has been removed or encrypted. 
+
+To verify the data's integrity, I will examine to have a broader view about the data by using ROCCC standard.
+
+
+
+
      
