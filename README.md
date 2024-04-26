@@ -45,7 +45,12 @@ Then
 
 ## Phase 3: Process
 
-In this phase, I check the data for errors, transform the data and document the data cleaning process.
+In this phase, I check the data for errors, transform the data and document the data cleaning process:
+
+ - Sort the data ascending by start-time, calculating ride-length based on start-time and end-time and day of week in Excel.
+ - 
+
+
 
 ## Phase 4: Analyze
 
