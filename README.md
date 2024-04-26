@@ -35,15 +35,17 @@ Design marketing strategies aimed at converting casual riders into annual member
 
 ## Phase 2: Prepare
 
-The datasets I am using here is from Cyclistic's history trip data of each month in first quarter of 2019 and 2020 and were made available by Motivate International Inc. Due to privacy issues, personal information has been removed or encrypted. 
+The datasets I am using here are from Cyclistic's history trip data of each month in first quarter of 2019 and 2020 and were made available by Motivate International Inc. Due to privacy issues, personal information has been removed or encrypted. 
 
 To verify the data's integrity, I will examine it to have a broader view about the data.
 
 First, download the files from [divvy-trip-data](https://divvy-tripdata.s3.amazonaws.com/index.html) in .zip format then unzip the .csv files. 
 
+Then
+
 ## Phase 3: Process
 
-In this phase, I check the data for errors, transform the data to work more effectively, and document the cleaning process.
+In this phase, I check the data for errors, transform the data and document the data cleaning process.
 
 ## Phase 4: Analyze
 
