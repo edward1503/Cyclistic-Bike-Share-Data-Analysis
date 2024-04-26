@@ -6,6 +6,7 @@ This repository contains the code and documentation for a Data Analysis Project 
 
 - [Phase 1: Ask](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-1-ask)
 - [Phase 2: Prepare](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-2-prepare)
+- [Phase 3: Process](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-3-process)
 
 ## Project Overview
 
