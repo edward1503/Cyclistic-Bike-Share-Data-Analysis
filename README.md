@@ -41,7 +41,20 @@ To verify the data's integrity, I will examine it to have a broader view about t
 
 First, download the files from [divvy-trip-data](https://divvy-tripdata.s3.amazonaws.com/index.html) in .zip format then unzip the .csv files. 
 
-Then
+The datasets include:
+ - ride_id: id of each ride.
+ - rideable_type: ride's type.
+ - started_at: start time of ride.
+ - ended_at: end time of ride.
+ - start_station_name: ride starting station.
+ - start_station_id: start station id.
+ - end_station_name: ride ending station.
+ - end_station_id: end station id.
+ - start_lat: starting location latitude.
+ - start_lng: starting location longitude.
+ - end_lat: ending location latitude.
+ - end_lng: ending location longitude.
+ - member_casual: type of membership.
 
 ## Phase 3: Process
 
