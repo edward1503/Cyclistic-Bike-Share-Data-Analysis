@@ -40,7 +40,7 @@ The datasets I am using here are from Cyclistic's history trip data of each mont
 
 To verify the data's integrity, I will examine it to have a broader view about the data.
 
-First, download the files from [divvy-trip-data](https://divvy-tripdata.s3.amazonaws.com/index.html) in .zip format then unzip the .csv files. 
+Download the files from [divvy-trip-data](https://divvy-tripdata.s3.amazonaws.com/index.html) in .zip format then unzip the .csv files. 
 
 The datasets include:
  - ride_id: id of each ride.
@@ -59,12 +59,10 @@ The datasets include:
 
 ## Phase 3: Process
 
-In this phase, I check the data for errors, transform the data and document the data cleaning process:
+This phase includes the data cleaning process.
 
  - Sort the data ascending by start-time, calculating ride-length based on start-time and end-time and day of week in Excel.
- - 
-
-
+ - Due to the size of datasets, I import in R to check null-value and calculate summary statistic.
 
 ## Phase 4: Analyze
 
