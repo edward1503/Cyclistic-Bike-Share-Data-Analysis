@@ -7,7 +7,7 @@ This repository contains the code and documentation for a Data Analysis Project 
 - [Phase 1: Ask](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-1-ask)
 - [Phase 2: Prepare](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-2-prepare)
 - [Phase 3: Process](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-3-process)
-
+- [Phase 4: Analyze](
 ## Project Overview
 
 Cyclistic, a bike-sharing company, has provided data on bike rides taken by its customers. The goal of this project is to analyze the data, gain insights into customer behavior, and provide actionable recommendations to improve Cyclistic's bike-sharing service.
@@ -61,14 +61,25 @@ The datasets include:
 
 This phase includes the data cleaning process.
 
- - Sort the data ascending by start-time, calculating ride-length based on start-time and end-time and day of week in Excel.
- - Due to the size of datasets, I import in R to check null-value and calculate summary statistic.
+ - Sort the data ascending by start-time, calculating ride-length based on start-time and end-time and day of week.
+ - Remove null, duplicate values and make columns consistency.
+ - Seperate date, time to week day, month, time.
 
 ## Phase 4: Analyze
 
-## Phase 5: Share
+In this phase, I will analyze the data by member type for each time (day, hour, week...) to identify trend and pattern. 
+ - Analyze ride length by customer type and week day.
+ - Analyze ride length comparison for each month.
+ - ...
+
+## Phase 5: Visualization
+
+This phase will help stakeholders to take a closer look to what data telling. These visualizations will include **charts, graphs, and other visual representations** of the data that will help **highlight important patterns** and **relationships** in the data.
+- Rides per day for each customer type.
+- Rides per hour for each customer type.
+- Rides per month for each customer type.
+- Ride duration per time for each customer type.
 
 ## Phase 6: Act
 
-
-     
+This phase will conclude with some key takeaways and recommendations for Cyclistic's marketing campaign. 
