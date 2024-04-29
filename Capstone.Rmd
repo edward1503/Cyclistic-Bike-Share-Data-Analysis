@@ -100,8 +100,6 @@ The **Challenges** I faced during my data analysis are:
 
 -   In order to **efficiently prepare, process, clean, analyze, and visualize** the data for this project, I selected **RStudio Desktop** as the **primary tool**. The large size of the dataset made it **impractical** to use tools such as **Microsoft Excel or Google Sheets**, and **RStudio Cloud** was also **unable** **to handle** the volume of data. **RStudio Desktop provided the necessary capabilities to effectively work with the data and generate meaningful insights.**
 
--   In addition to RStudio Desktop, I also utilized **Tableau** to create **visualizations for this project**. The powerful data visualization capabilities of Tableau allowed me to **effectively communicate** the **results of the analysis and highlight key trends and patterns in the data**.
-
 -   **Overall, the combination of RStudio Desktop and Tableau proved to be a powerful toolkit for preparing, processing, cleaning, analyzing, and visualizing the data for this project.**
 
 
