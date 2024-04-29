@@ -8,7 +8,8 @@ This repository contains the code and documentation for a Data Analysis Project 
 - [Phase 2: Prepare](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-2-prepare)
 - [Phase 3: Process](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-3-process)
 - [Phase 4: Analyze](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-4-analyze)
-- [Phase 5: Share]()
+- [Phase 5: Share](https://github.com/edward1503/Cyclistic-Bike-Share-Data-Analysis/blob/main/README.md#phase-5-share-visualize)
+- [Phase 6: Act]()
 ## Project Overview
 
 Cyclistic, a bike-sharing company, has provided data on bike rides taken by its customers. The goal of this project is to analyze the data, gain insights into customer behavior, and provide actionable recommendations to improve Cyclistic's bike-sharing service.
