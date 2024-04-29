@@ -1,6 +1,6 @@
 # Cyclistic-Bike-Share-Data-Analysis
 
-This repository contains the code and documentation for a Data Analysis Project conducted on Cyclistic's bike-share data. The project is organized into several phases, based on the APPASA process (Ask - Prepare - Process - Analyze - Share - Act), including data cleaning,  data visualizations and recommendations. 
+This repository contains the code and documentation for a Data Analysis Project conducted on Cyclistic's bike-share data. The project is organized into several phases, based on the APPASA process (Ask - Prepare - Process - Analyze - Share - Act), including data cleaning,  data visualizations and recommendations. You can also check this [notebook](https://www.kaggle.com/code/nguynnc/how-does-a-bike-share-navigate-speedy-success?scriptVersionId=174625059) on Kaggle.
 
 ## Table of Contents
 
