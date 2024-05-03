@@ -72,9 +72,10 @@ This phase includes the data cleaning process.
 In this phase, I will analyze the data by member type for each time (day, hour, week...) to identify trend and pattern. 
  - Analyze ride length by customer type and week day.
  - Analyze ride length comparison for each month.
+ - Analyze statistic ride length for each customer type.
  - ...
 
-## Phase 5: Share: Visualize
+## Phase 5: Share
 
 This phase will help stakeholders to take a closer look to what data telling. These visualizations will include **charts, graphs, and other visual representations** of the data that will help **highlight important patterns** and **relationships** in the data.
 - Rides per day for each customer type.
@@ -85,3 +86,14 @@ This phase will help stakeholders to take a closer look to what data telling. Th
 ## Phase 6: Act
 
 This phase will conclude with some key takeaways and recommendations for Cyclistic's marketing campaign. 
+
+**Key Takeaways:**
+Annual members primarily use the bike-sharing service for commuting purposes, while casual riders tend to use it for leisure, particularly on weekends and in the summer months.
+Annual members exhibit a more consistent usage of the service throughout the week and year, compared to casual riders.
+Casual riders tend to have longer ride duration's, averaging around 50% longer than annual members.
+Casual riders show lower usage of the service during the winter months compared to annual members.
+
+**Recommendations:**
+Increase marketing efforts targeting leisure riders, especiall on weekends, in order to increase bike usage and revenue.
+Consider offering discounts or incentives for annual members to encourage them to use the bikes more regularly throughout the week and year.
+Consider offering longer rental periods or multi-day rentals for casual riders, as their average ride length is longer than annual members, in order to increase revenue.
